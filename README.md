@@ -22,34 +22,11 @@
   </a>
 </p>
 
-<h3 align="center">Namaiki — Discord Leveling & Engagement Bot</h3>
+<h3 align="center">Discord Leveling & Engagement Bot</h3>
 
 <p align="center">
 A leveling bot built with <b>discord.js v14</b>, focused on tracking member activity and rewarding engagement with polished, canvas-rendered visuals.
 </p>
-
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-**✨ Core Features**
-- XP from messages & voice time
-- Daily login streaks with multipliers
-- Role-based level rewards
-- Custom canvas rank/profile cards
-
-</td>
-<td width="50%" valign="top">
-
-**⚙️ Under the Hood**
-- Discord Components V2 UI
-- Timezone-aware card backgrounds
-- Admin tools (rates, cooldowns, blacklist)
-- Async MongoDB + branding guard
-
-</td>
-</tr>
-</table>
 
 <div align="center">
   <a href="https://namaiki.xyz/" target="_blank">
