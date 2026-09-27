@@ -22,7 +22,6 @@
   </a>
 </p>
 
-<h3 align="center">Discord Leveling & Engagement Bot</h3>
 <div align="center">
   <a href="https://namaiki.xyz/" target="_blank">
     <img src="https://img.shields.io/badge/Website-namaiki.xyz-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Namaiki Website" />
