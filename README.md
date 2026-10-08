@@ -38,8 +38,7 @@
 </div>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=namaikiz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Pnyu's GitHub Stats" />
-  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=namaikiz&layout=compact&theme=tokyonight&hide_border=true" alt="ToTopanguages" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=namaikiz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <br>
