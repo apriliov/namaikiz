@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://media1.tenor.com/m/a6S35wgiCOsAAAAC/deku-java.gif" width="400" alt="Deku Java GIF"/>
+  <img
+    src="https://media1.tenor.com/m/a6S35wgiCOsAAAAC/deku-java.gif"
+    width="400"
+    alt="Deku Java GIF"
+  />
 </p>
 
 ---
@@ -7,8 +11,11 @@
 ### 🤖 My Discord App
 
 <p align="center">
-  <a href="https://namaiki.xyz/
-" target="_blank">
+  <a href="https://namaiki.xyz/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Website-namaiki.xyz-5865F2?style=for-the-badge&logo=discord&logoColor=white"
+      alt="Namaiki Website"
+    />
   </a>
 </p>
 
@@ -19,6 +26,7 @@
       alt="Namaiki Server Count"
     />
   </a>
+
   <a href="https://top.gg/bot/1201260757258612817" target="_blank">
     <img
       src="https://top.gg/api/widget/upvotes/1201260757258612817.svg"
@@ -38,10 +46,14 @@
  alt="GitHub Streak"
 />
 
+<br><br>
+
 <img
  src="https://u8views.com/api/v1/github/profiles/159621234/views/day-week-month-total-count.svg"
  alt="Profile Views"
 />
+
+<br><br>
 
 <img
  height="165"
