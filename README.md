@@ -38,12 +38,12 @@
 </div>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GMJayy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Pnyu's GitHub Stats" />
-  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GMJayy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=namaikiz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Pnyu's GitHub Stats" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=namaikiz&layout=compact&theme=tokyonight&hide_border=true" alt="ToTopanguages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=GMJayy&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=namaikiz&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </p>
 
 <br>
