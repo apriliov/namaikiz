@@ -51,14 +51,10 @@
  alt="GitHub Streak"
 />
 
-<br><br>
-
 <img
  src="https://u8views.com/api/v1/github/profiles/159621234/views/day-week-month-total-count.svg"
  alt="Profile Views"
 />
-
-<br><br>
 
 <img
  height="165"
