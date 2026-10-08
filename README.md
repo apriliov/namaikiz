@@ -8,6 +8,7 @@
 
 <p align="center">
   <a href="https://namaiki.xyz/" target="_blank">
+  </a>
 
 <p align="center">
   <a href="https://top.gg/bot/1201260757258612817" target="_blank">
