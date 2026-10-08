@@ -7,8 +7,10 @@
 ### 🤖 My Discord App
 
 <p align="center">
-  <a href="https://namaiki.xyz/" target="_blank">
+  <a href="https://namaiki.xyz/
+" target="_blank">
   </a>
+</p>
 
 <p align="center">
   <a href="https://top.gg/bot/1201260757258612817" target="_blank">
