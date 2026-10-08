@@ -4,16 +4,6 @@
 
 ---
 
-### 🔥 GitHub Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=namaikiz&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
-  <br><br>
-  <img src="https://u8views.com/api/v1/github/profiles/159621234/views/day-week-month-total-count.svg" alt="Profile Views" />
-</div>
-
----
-
 ### 🤖 My Discord APP
 
 <p align="center">
@@ -36,6 +26,29 @@
     <img src="https://top.gg/api/widget/upvotes/1201260757258612817.svg" alt="Namaiki Upvotes" />
   </a>
 </p>
+
+---
+
+### 🔥 GitHub Stats
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=namaikiz&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+  <br><br>
+  <img src="https://u8views.com/api/v1/github/profiles/159621234/views/day-week-month-total-count.svg" alt="Profile Views" />
+</div>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GMJayy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Pnyu's GitHub Stats" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GMJayy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=GMJayy&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+</p>
+
+<br>
+
+<div align="center">
 
 ---
 
