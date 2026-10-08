@@ -8,22 +8,6 @@
 
 <p align="center">
   <a href="https://namaiki.xyz/" target="_blank">
-    <img
-      src="https://cdn.discordapp.com/attachments/1202892583572086794/1553432175238578196/banner.webp?ex=6ab939f3&is=6ab7e873&hm=1b6bfe70bded0d237cb50234a32db05ccd9603ca86421a543c7dd89eda88ebd0&"
-      alt="Namaiki Banner"
-      width="100%"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://namaiki.xyz/" target="_blank">
-    <img
-      src="https://img.shields.io/badge/Website-namaiki.xyz-5865F2?style=for-the-badge&logo=discord&logoColor=white"
-      alt="Namaiki Website"
-    />
-  </a>
-</p>
 
 <p align="center">
   <a href="https://top.gg/bot/1201260757258612817" target="_blank">
