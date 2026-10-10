@@ -39,19 +39,3 @@
 />
 
 </div>
-
----
-
-### 🛡 Discord
-
-<div align="center">
-
-  <a href="https://discord.com/users/995913592253710356" target="_blank">
-    <img
-      width="350"
-      src="https://lanyard.cnrad.dev/api/995913592253710356"
-      alt="Discord Presence"
-    />
-  </a>
-
-</div>
