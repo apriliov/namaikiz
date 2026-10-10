@@ -1,13 +1,3 @@
-<p align="center">
-  <img
-    src="https://media1.tenor.com/m/a6S35wgiCOsAAAAC/deku-java.gif"
-    width="400"
-    alt="Deku Java GIF"
-  />
-</p>
-
----
-
 ### 🤖 My Discord App
 
 <p align="center">
