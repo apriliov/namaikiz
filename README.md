@@ -1,3 +1,23 @@
+### 🤖 My Discord App
+
+<p align="center">
+  <a href="https://top.gg/bot/1201260757258612817" target="_blank">
+    <img
+      src="https://top.gg/api/widget/servers/1201260757258612817.svg"
+      alt="Namaiki Server Count"
+    />
+  </a>
+
+  <a href="https://top.gg/bot/1201260757258612817" target="_blank">
+    <img
+      src="https://top.gg/api/widget/upvotes/1201260757258612817.svg"
+      alt="Namaiki Upvotes"
+    />
+  </a>
+</p>
+
+---
+
 ### 🔥 GitHub Stats
 
 <div align="center">
